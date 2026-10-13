@@ -1,0 +1,53 @@
+# e-Comet - Full automation of promotion on Wildberries
+
+> An effective tool for managing online advertising, analyzing trends, and finding profitable niches on Wildberries
+
+## Pages
+- [Autopilot Promo](https://e-comet.io/autopilot-promo): Autopilot advertising campaigns and analytics.
+
+## Knowledge Base
+- [Overview](https://e-comet.io/docs): Description of the e-Comet platform and its features for advertising management and analytics on Wildberries.
+- [Portfolio](https://e-comet.io/docs/portfolio): Product analytics, comparison metrics, 30-day trends.
+- [Legal entities and API tokens](https://e-comet.io/docs/account/tokens): Adding legal entities, obtaining and configuring API tokens.
+- [Subscription management](https://e-comet.io/docs/account/subscription): Managing subscription status and plan settings.
+- [Employees and access rights](https://e-comet.io/docs/account/staff): Adding team members and setting permissions.
+- [Notifications](https://e-comet.io/docs/account/notification): Configuring alerts via email or Telegram (e.g. token expiry, subscription renewal).
+- [FAQ](https://e-comet.io/docs/account/faq): Frequently asked questions about account settings.
+- [Overview](https://e-comet.io/docs/ad/autopilot/overview): General description of the autopilot feature.
+- [Getting Started](https://e-comet.io/docs/ad/autopilot/start): How to begin using autopilot.
+- [Settings](https://e-comet.io/docs/ad/autopilot/settings): Parameters, thresholds, and configuration.
+- [Statistics](https://e-comet.io/docs/ad/autopilot/stats): Performance metrics under autopilot.
+- [Pricing](https://e-comet.io/docs/ad/autopilot/pricing): Cost structure and limits for autopilot.
+- [FAQ](https://e-comet.io/docs/ad/autopilot/faq): Common questions about autopilot.
+- [Getting Started](https://e-comet.io/docs/ad/campaigns/start): How to create and launch campaigns.
+- [Type Auto](https://e-comet.io/docs/ad/campaigns/auto): Automatic campaign type.
+- [Type Auction](https://e-comet.io/docs/ad/campaigns/auction): Auction-type campaigns (search only).
+- [Creation](https://e-comet.io/docs/ad/campaigns/create): Campaign creation workflow.
+- [Settings](https://e-comet.io/docs/ad/campaigns/settings): Configuring targeting, bids, and budgets.
+- [Statuses](https://e-comet.io/docs/ad/campaigns/status): Campaign lifecycle statuses (active, paused, etc.).
+- [Clusters](https://e-comet.io/docs/ad/campaigns/preset): Grouping phrases into clusters.
+- [PRO Features](https://e-comet.io/docs/ad/campaigns/pro): Advanced functionality available with PRO.
+- [Overview](https://e-comet.io/docs/ab-tests/overview): General description of A/B testing.
+- [Getting Started](https://e-comet.io/docs/ab-tests/start): How to set up and launch a test.
+- [Settings](https://e-comet.io/docs/ab-tests/settings): Parameters and configuration options.
+- [Statistics](https://e-comet.io/docs/ab-tests/stats): Interpreting test results and metrics.
+- [FAQ](https://e-comet.io/docs/ab-tests/faq): Frequently asked questions about A/B testing.
+- [Phrases](https://e-comet.io/docs/phrases): Popular search queries, tracking of organic and promo positions.
+- [Feed](https://e-comet.io/docs/lenta): Real-time order stream with returns and cancellations.
+- [Overview](https://e-comet.io/docs/feedbacks/start): How to start working with feedbacks.
+- [Tables](https://e-comet.io/docs/tools/sheets): Features for working with tables, sorting, and exports.
+- [Filters](https://e-comet.io/docs/tools/filter): Advanced filters for managing data in tables and lists.
+- [Browser Extension](https://e-comet.io/docs/tools/extension): Chrome extension with quick access to e-Comet features.
+- [Glossary](https://e-comet.io/docs/glossary): Key terms and metrics used in the system.
+- [Pricing](https://e-comet.io/docs/tariffs): Subscription plans, PRO features, and limitations.
+- [Referral Program](https://e-comet.io/docs/referral): Information about the partner and referral program.
+- [Support](https://e-comet.io/docs/support): Help center and support contacts.
+
+## External Resources
+- [e-Comet Chrome Extension](https://chromewebstore.google.com/detail/e-comet/apeallgchpgibifmbgefkhifidihmodh): Browser extension for analytics and advertising management on Wildberries.
+
+## Social Media
+- **[Telegram](https://t.me/e_comet)**: Follow us on Telegram for updates.
+
+## Contact Us
+- **Email**: [hello@e-comet.io](mailto:hello@e-comet.io)
