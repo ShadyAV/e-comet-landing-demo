@@ -1,0 +1,114 @@
+{
+  "scenarios": [
+    {
+      "id": "create",
+      "title": "Создание теста",
+      "url": "app.e-comet.io/ab-tests",
+      "duration": 19.733333333333334,
+      "steps": [
+        {
+          "t": 0,
+          "caption": "Создание теста"
+        },
+        {
+          "t": 1,
+          "caption": "Создаём A/B-тест фото"
+        },
+        {
+          "t": 3.3666666666666667,
+          "caption": "Выбираем товар"
+        },
+        {
+          "t": 7.983333333333333,
+          "caption": "Фото товара подтянулось с карточки WB"
+        },
+        {
+          "t": 9.783333333333333,
+          "caption": "Добавляем варианты фото"
+        },
+        {
+          "t": 12.633333333333333,
+          "caption": "Запускаем: экспресс-режим, итог за пару дней"
+        },
+        {
+          "t": 16.433333333333334,
+          "caption": "Тест в списке — стартует сам"
+        }
+      ],
+      "files": {
+        "webm": "ab-tests-create.webm",
+        "mp4": "ab-tests-create.mp4",
+        "mobile": "ab-tests-create-m.mp4",
+        "poster": "ab-tests-create.webp"
+      }
+    },
+    {
+      "id": "winner",
+      "title": "Выбор победителя",
+      "url": "app.e-comet.io/ab-tests",
+      "duration": 14.866666666666667,
+      "steps": [
+        {
+          "t": 0,
+          "caption": "Выбор победителя"
+        },
+        {
+          "t": 1.4833333333333334,
+          "caption": "Открываем статистику завершённого теста"
+        },
+        {
+          "t": 3.4166666666666665,
+          "caption": "Авто-победителя нет, но CTR выше у варианта 2"
+        },
+        {
+          "t": 6.116666666666666,
+          "caption": "Выбираем его вручную"
+        },
+        {
+          "t": 8.05,
+          "caption": "Ставим его основным в карточке"
+        },
+        {
+          "t": 10.516666666666667,
+          "caption": "В строке — фото-победитель и прирост CTR"
+        }
+      ],
+      "files": {
+        "webm": "ab-tests-winner.webm",
+        "mp4": "ab-tests-winner.mp4",
+        "mobile": "ab-tests-winner-m.mp4",
+        "poster": "ab-tests-winner.webp"
+      }
+    },
+    {
+      "id": "history",
+      "title": "История результатов",
+      "url": "app.e-comet.io/ab-tests",
+      "duration": 12.183333333333334,
+      "steps": [
+        {
+          "t": 0,
+          "caption": "История результатов"
+        },
+        {
+          "t": 1,
+          "caption": "Включаем архив — все прошлые тесты"
+        },
+        {
+          "t": 4.666666666666667,
+          "caption": "Сортируем по результату — лучшие фото сверху"
+        },
+        {
+          "t": 7.766666666666667,
+          "caption": "Лучший результат: +1,4 п.п. CTR"
+        }
+      ],
+      "files": {
+        "webm": "ab-tests-history.webm",
+        "mp4": "ab-tests-history.mp4",
+        "mobile": "ab-tests-history-m.mp4",
+        "poster": "ab-tests-history.webp"
+      }
+    }
+  ]
+}
