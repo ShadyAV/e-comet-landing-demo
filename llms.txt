@@ -3,7 +3,7 @@
 > An effective tool for managing online advertising, analyzing trends, and finding profitable niches on Wildberries
 
 ## Pages
-- [Autopilot Promo](https://e-comet.io/autopilot-promo): Autopilot advertising campaigns and analytics.
+- [Home](https://e-comet.io/): Bidder and advertising management, photo A/B tests, the MCP plugin for AI assistants, pricing and contacts.
 
 ## Knowledge Base
 - [Overview](https://e-comet.io/docs): Description of the e-Comet platform and its features for advertising management and analytics on Wildberries.
