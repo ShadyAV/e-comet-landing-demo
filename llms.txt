@@ -1,53 +1,66 @@
-# e-Comet - Full automation of promotion on Wildberries
+# e-Comet — биддер и аналитика рекламы для Wildberries
 
-> An effective tool for managing online advertising, analyzing trends, and finding profitable niches on Wildberries
+> Сервис для продавцов Wildberries: управление рекламой и ставками через официальный API, аналитика, А/Б-тесты фотографий товара и MCP-плагин для ИИ-ассистентов. Сайт на русском языке.
 
-## Pages
-- [Home](https://e-comet.io/): Bidder and advertising management, photo A/B tests, the MCP plugin for AI assistants, pricing and contacts.
+## Ключевые факты
+- Что это: биддер (автоматическое управление ставками рекламных кампаний для удержания целевой позиции), детальная аналитика рекламы и органики, А/Б-тесты фото, консалтинг и ведение рекламы «под ключ».
+- Для кого: продавцы и агентства на Wildberries — от нескольких кампаний до тысяч.
+- Бесплатно: до 3 рекламных кампаний под управлением без ограничения по времени.
+- Тарифы: «Старт» 1 990 ₽/мес (от 10 кампаний), «Базовый» 4 990 ₽/мес (от 50 кампаний), «Проф» 9 990 ₽/мес (от 150 кампаний); при оплате за 3 месяца скидка 10%. Детали: https://shadyav.github.io/e-comet-landing-demo/docs/tariffs/
+- Интеграция: только официальный API Wildberries.
+- MCP-плагин: подключает Claude, ChatGPT и Codex к данным кабинета (заказы, выручка, ДРР, ROMI, CTR, CPC, прогноз заказов, ставки и минус-фразы) и к живым данным Wildberries и Ozon (позиции, карточки, остатки, отзывы). По умолчанию только чтение. Плагин: https://github.com/e-comet/skills
+- Веб-приложение: https://app.e-comet.io/ · Контакт: hello@e-comet.io · Telegram: https://t.me/e_comet
 
-## Knowledge Base
-- [Overview](https://e-comet.io/docs): Description of the e-Comet platform and its features for advertising management and analytics on Wildberries.
-- [Portfolio](https://e-comet.io/docs/portfolio): Product analytics, comparison metrics, 30-day trends.
-- [Legal entities and API tokens](https://e-comet.io/docs/account/tokens): Adding legal entities, obtaining and configuring API tokens.
-- [Subscription management](https://e-comet.io/docs/account/subscription): Managing subscription status and plan settings.
-- [Employees and access rights](https://e-comet.io/docs/account/staff): Adding team members and setting permissions.
-- [Notifications](https://e-comet.io/docs/account/notification): Configuring alerts via email or Telegram (e.g. token expiry, subscription renewal).
-- [FAQ](https://e-comet.io/docs/account/faq): Frequently asked questions about account settings.
-- [Overview](https://e-comet.io/docs/ad/autopilot/overview): General description of the autopilot feature.
-- [Getting Started](https://e-comet.io/docs/ad/autopilot/start): How to begin using autopilot.
-- [Settings](https://e-comet.io/docs/ad/autopilot/settings): Parameters, thresholds, and configuration.
-- [Statistics](https://e-comet.io/docs/ad/autopilot/stats): Performance metrics under autopilot.
-- [Pricing](https://e-comet.io/docs/ad/autopilot/pricing): Cost structure and limits for autopilot.
-- [FAQ](https://e-comet.io/docs/ad/autopilot/faq): Common questions about autopilot.
-- [Getting Started](https://e-comet.io/docs/ad/campaigns/start): How to create and launch campaigns.
-- [Type Auto](https://e-comet.io/docs/ad/campaigns/auto): Automatic campaign type.
-- [Type Auction](https://e-comet.io/docs/ad/campaigns/auction): Auction-type campaigns (search only).
-- [Creation](https://e-comet.io/docs/ad/campaigns/create): Campaign creation workflow.
-- [Settings](https://e-comet.io/docs/ad/campaigns/settings): Configuring targeting, bids, and budgets.
-- [Statuses](https://e-comet.io/docs/ad/campaigns/status): Campaign lifecycle statuses (active, paused, etc.).
-- [Clusters](https://e-comet.io/docs/ad/campaigns/preset): Grouping phrases into clusters.
-- [PRO Features](https://e-comet.io/docs/ad/campaigns/pro): Advanced functionality available with PRO.
-- [Overview](https://e-comet.io/docs/ab-tests/overview): General description of A/B testing.
-- [Getting Started](https://e-comet.io/docs/ab-tests/start): How to set up and launch a test.
-- [Settings](https://e-comet.io/docs/ab-tests/settings): Parameters and configuration options.
-- [Statistics](https://e-comet.io/docs/ab-tests/stats): Interpreting test results and metrics.
-- [FAQ](https://e-comet.io/docs/ab-tests/faq): Frequently asked questions about A/B testing.
-- [Phrases](https://e-comet.io/docs/phrases): Popular search queries, tracking of organic and promo positions.
-- [Feed](https://e-comet.io/docs/lenta): Real-time order stream with returns and cancellations.
-- [Overview](https://e-comet.io/docs/feedbacks/start): How to start working with feedbacks.
-- [Tables](https://e-comet.io/docs/tools/sheets): Features for working with tables, sorting, and exports.
-- [Filters](https://e-comet.io/docs/tools/filter): Advanced filters for managing data in tables and lists.
-- [Browser Extension](https://e-comet.io/docs/tools/extension): Chrome extension with quick access to e-Comet features.
-- [Glossary](https://e-comet.io/docs/glossary): Key terms and metrics used in the system.
-- [Pricing](https://e-comet.io/docs/tariffs): Subscription plans, PRO features, and limitations.
-- [Referral Program](https://e-comet.io/docs/referral): Information about the partner and referral program.
-- [Support](https://e-comet.io/docs/support): Help center and support contacts.
+## Страницы
+- [Главная](https://shadyav.github.io/e-comet-landing-demo/): биддер и управление рекламой, А/Б-тесты фото, MCP-плагин для ИИ-ассистентов, тарифы и контакты.
+- [Договор оферты](https://shadyav.github.io/e-comet-landing-demo/oferta/): условия использования сервиса.
+- [Политика конфиденциальности](https://shadyav.github.io/e-comet-landing-demo/privacy/): обработка персональных данных.
 
-## External Resources
-- [e-Comet Chrome Extension](https://chromewebstore.google.com/detail/e-comet/apeallgchpgibifmbgefkhifidihmodh): Browser extension for analytics and advertising management on Wildberries.
+## База знаний
+- [Оглавление базы знаний](https://shadyav.github.io/e-comet-landing-demo/docs/llms.txt): разделы и ссылки на статьи в Markdown.
+- [Вся база знаний одним файлом](https://shadyav.github.io/e-comet-landing-demo/docs/llms-full.txt): все статьи подряд в Markdown.
+- [e-Comet - управление рекламой и аналитика Wildberries](https://shadyav.github.io/e-comet-landing-demo/docs/overview.md): Что умеет e-Comet: управление рекламой на Wildberries, А/Б-тесты фото, аналитика по товарам, фразам и заказам.
+- [Личный кабинет › Юрлица и токены](https://shadyav.github.io/e-comet-landing-demo/docs/account/tokens.md): Как добавить юрлицо и подключить к нему сервисный токен API Wildberries.
+- [Личный кабинет › Управление подпиской](https://shadyav.github.io/e-comet-landing-demo/docs/account/subscription.md): Как сменить тариф, докупить опции и пополнить баланс e-Comet картой или по счету.
+- [Личный кабинет › Сотрудники](https://shadyav.github.io/e-comet-landing-demo/docs/account/staff.md): Как добавить сотрудников и настроить их права доступа к юрлицам и артикулам.
+- [Личный кабинет › Закрывающие документы](https://shadyav.github.io/e-comet-landing-demo/docs/account/documents.md): Где скачать акты и УПД по услугам e-Comet и как формируются закрывающие документы.
+- [Личный кабинет › Часто задаваемые вопросы по личному кабинету](https://shadyav.github.io/e-comet-landing-demo/docs/account/faq.md): Ответы на частые вопросы о токенах, подписке, договоре и закрывающих документах.
+- [Личный кабинет › Уведомления](https://shadyav.github.io/e-comet-landing-demo/docs/account/notification.md): Как включить уведомления об окончании срока токена и подписки на почту и в Telegram.
+- [Реклама › Управление от e-Comet › Описание](https://shadyav.github.io/e-comet-landing-demo/docs/ad/autopilot/overview.md): Управление рекламой на Wildberries под ключ для крупных кабинетов: цель и преимущества.
+- [Реклама › Управление от e-Comet › Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/autopilot/faq.md): Ответы на вопросы об управлении от e-Comet: тарификация, тестовый период, зона ответственности.
+- [Реклама › Кампании › Начало работы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/start.md): С чего начать работу с рекламой: подключение токена, создание и загрузка рекламных кампаний.
+- [Реклама › Кампании › Что такое "Единая" рекламная кампания?](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/auto.md): Как устроена «Единая» рекламная кампания: где показывается, единая ставка и принципы работы.
+- [Реклама › Кампании › Что такое "Ручная" рекламная кампания?](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/auction.md): Как устроена «Ручная» рекламная кампания: независимые зоны показов Поиск и Полки со своими ставками.
+- [Реклама › Кампании › Создание и запуск рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/create.md): Как создать и запустить рекламные кампании за 10 шагов и почему в каждой должен быть один артикул.
+- [Реклама › Кампании › Настройка рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/settings.md): Что значит каждая настройка «Единой» и «Ручной» рекламной кампании и как она влияет на ставку и паузы.
+- [Реклама › Кампании › Статусы рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/status.md): Что означают статусы рекламных кампаний и причины, по которым может не быть показов.
+- [Реклама › Кампании › Кластеры](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/preset.md): Что такое кластеры и как управлять показами: целевые, плюс- и минус-фразы, автоминус.
+- [Реклама › Кампании › Рабочие связки и конфликт рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/conflict.md): Какие связки рекламных кампаний на одном артикуле работают и чем опасно их пересечение по зонам показов.
+- [Реклама › Кампании › Функционал PRO](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/pro.md): Возможности тарифа «Проф»: контроль расходов по юрлицам и артикулам и таблица «Артикул PRO».
+- [Реклама › Кампании › Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/faq.md): Ответы на частые вопросы о рекламных кампаниях: показы, кластеры, автоминус, статистика.
+- [А/Б-тесты › А/Б-тесты](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/overview.md): Как А/Б-тесты помогают выбрать самое эффективное главное фото товара и в чем их преимущества.
+- [А/Б-тесты › Начало работы](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/start.md): Как запустить А/Б-тест фотографий за 7 шагов и что делать после запуска.
+- [А/Б-тесты › Настройки](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/settings.md): Настройки А/Б-теста: дата запуска, минимум показов и дней на фото, экспресс метод, выбор победителя.
+- [А/Б-тесты › Статусы А/Б-тестов](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/ab_status.md): Что означает каждый статус А/Б-теста.
+- [А/Б-тесты › Статистика и результаты](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/stats.md): Как читать статистику А/Б-теста, чем отличаются основной и экспресс методы и как определяется победитель.
+- [А/Б-тесты › Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/faq.md): Ответы на частые вопросы об А/Б-тестах: сравнимые показы, стоимость, ограничения, статистика.
+- [Портфель](https://shadyav.github.io/e-comet-landing-demo/docs/portfolio.md): Как сравнивать и отслеживать показатели товаров: группы, таблица метрик и рекламные расходы.
+- [Прогноз](https://shadyav.github.io/e-comet-landing-demo/docs/forecast.md): Как строится прогноз заказов, остатков и выкупов и как использовать его для планирования поставок.
+- [Фразы](https://shadyav.github.io/e-comet-landing-demo/docs/phrases.md): Как работать с ключевыми фразами: частотность, мониторинг позиций и создание рекламных кампаний по фразам.
+- [Лента заказов](https://shadyav.github.io/e-comet-landing-demo/docs/lenta.md): Как следить за заказами по своим товарам: данные о заказе, фильтры и выбор периода.
+- [Инструменты › Таблицы](https://shadyav.github.io/e-comet-landing-demo/docs/tools/sheets.md): Что умеют таблицы в сервисе: настройка колонок, сортировка, фильтрация, экспорт и вставка данных.
+- [Инструменты › Фильтры](https://shadyav.github.io/e-comet-landing-demo/docs/tools/filter.md): Как искать в таблицах: несколько слов, точная фраза, начало и конец строки, учет регистра.
+- [Инструменты › Расширение для браузера e-Comet](https://shadyav.github.io/e-comet-landing-demo/docs/tools/extension.md): Что показывает расширение e-Comet прямо на Wildberries и как его установить.
+- [Глоссарий](https://shadyav.github.io/e-comet-landing-demo/docs/glossary.md): Термины и метрики рекламы на Wildberries: что они означают и как считаются.
+- [Сравнение тарифов](https://shadyav.github.io/e-comet-landing-demo/docs/tariffs.md): Сравнение тарифов e-Comet: что входит в каждый и сколько он стоит.
+- [Партнерская программа](https://shadyav.github.io/e-comet-landing-demo/docs/referral.md): Как зарабатывать на рекомендации e-Comet: вознаграждение, условия участия и вывод денег.
+- [Остались вопросы?](https://shadyav.github.io/e-comet-landing-demo/docs/support.md): Как написать в поддержку e-Comet и записаться на видео-консультацию.
 
-## Social Media
-- **[Telegram](https://t.me/e_comet)**: Follow us on Telegram for updates.
+## Внешние ресурсы
+- [Расширение e-Comet для Chrome](https://chromewebstore.google.com/detail/e-comet/apeallgchpgibifmbgefkhifidihmodh): расширение для аналитики и управления рекламой на Wildberries.
 
-## Contact Us
+## Соцсети
+- **[Telegram](https://t.me/e_comet)**: новости и обновления сервиса.
+
+## Контакты
 - **Email**: [hello@e-comet.io](mailto:hello@e-comet.io)

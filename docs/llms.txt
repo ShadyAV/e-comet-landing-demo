@@ -1,0 +1,87 @@
+# База знаний e-Comet
+
+> Справка по сервису e-Comet для продавцов Wildberries: реклама и биддер, А/Б-тесты фото, аналитика, кабинет и тарифы. Каждая статья — отдельный файл Markdown.
+
+Все статьи одним файлом: https://shadyav.github.io/e-comet-landing-demo/docs/llms-full.txt
+
+## Как пользоваться
+
+- У каждой статьи есть версия в Markdown: тот же адрес с «.md» на конце. Ссылки ниже ведут сразу на них.
+- Нужны все статьи сразу — берите https://shadyav.github.io/e-comet-landing-demo/docs/llms-full.txt: это те же страницы подряд, с источником и датой правки у каждой.
+- Читателю давайте обычный адрес страницы, без «.md»: он открывается в браузере и показывает оглавление и картинки.
+- База знаний только про сервис e-Comet и работу с Wildberries, и только на русском. Цены и лимиты тарифов меняются — сверяйтесь со страницей тарифов, а не с запомненным.
+
+## Обзор сервиса
+
+- [e-Comet - управление рекламой и аналитика Wildberries](https://shadyav.github.io/e-comet-landing-demo/docs/overview.md): Что умеет e-Comet: управление рекламой на Wildberries, А/Б-тесты фото, аналитика по товарам, фразам и заказам.
+
+## Личный кабинет
+
+- [Юрлица и токены](https://shadyav.github.io/e-comet-landing-demo/docs/account/tokens.md): Как добавить юрлицо и подключить к нему сервисный токен API Wildberries.
+- [Управление подпиской](https://shadyav.github.io/e-comet-landing-demo/docs/account/subscription.md): Как сменить тариф, докупить опции и пополнить баланс e-Comet картой или по счету.
+- [Сотрудники](https://shadyav.github.io/e-comet-landing-demo/docs/account/staff.md): Как добавить сотрудников и настроить их права доступа к юрлицам и артикулам.
+- [Закрывающие документы](https://shadyav.github.io/e-comet-landing-demo/docs/account/documents.md): Где скачать акты и УПД по услугам e-Comet и как формируются закрывающие документы.
+- [Часто задаваемые вопросы по личному кабинету](https://shadyav.github.io/e-comet-landing-demo/docs/account/faq.md): Ответы на частые вопросы о токенах, подписке, договоре и закрывающих документах.
+- [Уведомления](https://shadyav.github.io/e-comet-landing-demo/docs/account/notification.md): Как включить уведомления об окончании срока токена и подписки на почту и в Telegram.
+
+## Реклама
+
+- [Управление от e-Comet › Описание](https://shadyav.github.io/e-comet-landing-demo/docs/ad/autopilot/overview.md): Управление рекламой на Wildberries под ключ для крупных кабинетов: цель и преимущества.
+- [Управление от e-Comet › Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/autopilot/faq.md): Ответы на вопросы об управлении от e-Comet: тарификация, тестовый период, зона ответственности.
+- [Кампании › Начало работы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/start.md): С чего начать работу с рекламой: подключение токена, создание и загрузка рекламных кампаний.
+- [Кампании › Что такое "Единая" рекламная кампания?](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/auto.md): Как устроена «Единая» рекламная кампания: где показывается, единая ставка и принципы работы.
+- [Кампании › Что такое "Ручная" рекламная кампания?](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/auction.md): Как устроена «Ручная» рекламная кампания: независимые зоны показов Поиск и Полки со своими ставками.
+- [Кампании › Создание и запуск рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/create.md): Как создать и запустить рекламные кампании за 10 шагов и почему в каждой должен быть один артикул.
+- [Кампании › Настройка рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/settings.md): Что значит каждая настройка «Единой» и «Ручной» рекламной кампании и как она влияет на ставку и паузы.
+- [Кампании › Статусы рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/status.md): Что означают статусы рекламных кампаний и причины, по которым может не быть показов.
+- [Кампании › Кластеры](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/preset.md): Что такое кластеры и как управлять показами: целевые, плюс- и минус-фразы, автоминус.
+- [Кампании › Рабочие связки и конфликт рекламных кампаний](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/conflict.md): Какие связки рекламных кампаний на одном артикуле работают и чем опасно их пересечение по зонам показов.
+- [Кампании › Функционал PRO](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/pro.md): Возможности тарифа «Проф»: контроль расходов по юрлицам и артикулам и таблица «Артикул PRO».
+- [Кампании › Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ad/campaigns/faq.md): Ответы на частые вопросы о рекламных кампаниях: показы, кластеры, автоминус, статистика.
+
+## А/Б-тесты
+
+- [А/Б-тесты](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/overview.md): Как А/Б-тесты помогают выбрать самое эффективное главное фото товара и в чем их преимущества.
+- [Начало работы](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/start.md): Как запустить А/Б-тест фотографий за 7 шагов и что делать после запуска.
+- [Настройки](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/settings.md): Настройки А/Б-теста: дата запуска, минимум показов и дней на фото, экспресс метод, выбор победителя.
+- [Статусы А/Б-тестов](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/ab_status.md): Что означает каждый статус А/Б-теста.
+- [Статистика и результаты](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/stats.md): Как читать статистику А/Б-теста, чем отличаются основной и экспресс методы и как определяется победитель.
+- [Вопросы](https://shadyav.github.io/e-comet-landing-demo/docs/ab-tests/faq.md): Ответы на частые вопросы об А/Б-тестах: сравнимые показы, стоимость, ограничения, статистика.
+
+## Портфель
+
+- [Портфель](https://shadyav.github.io/e-comet-landing-demo/docs/portfolio.md): Как сравнивать и отслеживать показатели товаров: группы, таблица метрик и рекламные расходы.
+
+## Прогноз
+
+- [Прогноз](https://shadyav.github.io/e-comet-landing-demo/docs/forecast.md): Как строится прогноз заказов, остатков и выкупов и как использовать его для планирования поставок.
+
+## Фразы
+
+- [Фразы](https://shadyav.github.io/e-comet-landing-demo/docs/phrases.md): Как работать с ключевыми фразами: частотность, мониторинг позиций и создание рекламных кампаний по фразам.
+
+## Лента
+
+- [Лента заказов](https://shadyav.github.io/e-comet-landing-demo/docs/lenta.md): Как следить за заказами по своим товарам: данные о заказе, фильтры и выбор периода.
+
+## Инструменты
+
+- [Таблицы](https://shadyav.github.io/e-comet-landing-demo/docs/tools/sheets.md): Что умеют таблицы в сервисе: настройка колонок, сортировка, фильтрация, экспорт и вставка данных.
+- [Фильтры](https://shadyav.github.io/e-comet-landing-demo/docs/tools/filter.md): Как искать в таблицах: несколько слов, точная фраза, начало и конец строки, учет регистра.
+- [Расширение для браузера e-Comet](https://shadyav.github.io/e-comet-landing-demo/docs/tools/extension.md): Что показывает расширение e-Comet прямо на Wildberries и как его установить.
+
+## Глоссарий
+
+- [Глоссарий](https://shadyav.github.io/e-comet-landing-demo/docs/glossary.md): Термины и метрики рекламы на Wildberries: что они означают и как считаются.
+
+## Тарифы
+
+- [Сравнение тарифов](https://shadyav.github.io/e-comet-landing-demo/docs/tariffs.md): Сравнение тарифов e-Comet: что входит в каждый и сколько он стоит.
+
+## Партнерская программа
+
+- [Партнерская программа](https://shadyav.github.io/e-comet-landing-demo/docs/referral.md): Как зарабатывать на рекомендации e-Comet: вознаграждение, условия участия и вывод денег.
+
+## Поддержка
+
+- [Остались вопросы?](https://shadyav.github.io/e-comet-landing-demo/docs/support.md): Как написать в поддержку e-Comet и записаться на видео-консультацию.

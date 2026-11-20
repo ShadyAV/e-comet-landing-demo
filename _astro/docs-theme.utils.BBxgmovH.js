@@ -1,0 +1,1 @@
+function e(e=matchMedia(`(prefers-color-scheme: light)`)){if(document.documentElement.classList.contains(`docs-dark`))return`dark`;let t=document.documentElement.dataset.theme;return t===`light`||t===`dark`?t:e.matches?`light`:`dark`}export{e as t};
